@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "imgUrl":"/images/deliver.jpg",
+        "title":"Delivering cheezy khushiyan"
+    },
+     {
+        "id":2,
+        "imgUrl":"/images/heart.jpg",
+        "title":"Fastest Growing Brand of the Year"
+    },
+     {
+        "id":3,
+        "imgUrl":"/images/flavors.jpg",
+        "title":"Made with fresh, local ingredients and love"
+    }
+]

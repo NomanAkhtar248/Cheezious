@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "imgUrl":"/images/Banner4.jpg"
+    },
+     {
+        "id":2,
+        "imgUrl":"/images/Banner5.jpg"
+    },
+     {
+        "id":3,
+        "imgUrl":"/images/Banner3.jpg"
+    },
+     {
+        "id":4,
+        "imgUrl":"/images/Banner2.jpg"
+    },
+     {
+        "id":5,
+        "imgUrl":"/images/benur1.jpg"
+    }
+]

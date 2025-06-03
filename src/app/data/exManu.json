@@ -1,0 +1,55 @@
+[
+     {
+
+        "id":1,
+        "imgUrl":"/images/exmanu1.jpg",
+        "title":"ZALMI MEAL"
+
+    },
+    {
+        "id":2,
+        "imgUrl":"/images/Turn up the heat.jpg",
+        "title":"Turn up the heat"
+    },
+     {
+        "id":3,
+        "imgUrl":"/images/Starters3.jpg",
+        "title":"Starters"
+    },
+     {
+        "id":4,
+        "imgUrl":"/images/Somewhat 4.jpg",
+        "title":"Somewhat Local"
+    },
+     {
+        "id":5,
+        "imgUrl":"/images/Sooper2.jpg",
+        "title":"Somewhat Sooper"
+    },
+     {
+        "id":6,
+        "imgUrl":"/images/Treats1.jpg",
+        "title":"Cheezy Treats"
+    },
+     {
+        "id":7,
+        "imgUrl":"/images/Deals2.jpg",
+        "title":"Pizza Deals"
+    },
+     {
+        "id":8,
+        "imgUrl":"/images/Starters4.jpg",
+        "title":"Sandwiches & Platters"
+    },
+     {
+        "id":9,
+        "imgUrl":"/images/Special1.jpg",
+        "title":"Special Pizza"
+    },
+     {
+        "id":10,
+        "imgUrl":"/images/Amazing3.jpg",
+        "title":"Somewhat Amazing"
+    }
+
+]

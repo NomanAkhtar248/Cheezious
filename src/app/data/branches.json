@@ -1,0 +1,58 @@
+[
+  {
+    "id":1,
+    "imgUrl":"/footer logo.png",
+    "name": "Pine Avenue",
+    "address": "96VX+PCQ, Pine Ave, Wocland Villas Block N Valencia, Lahore, Pakistan"
+  },
+  {
+    "id":2,
+     "imgUrl":"/footer logo.png",
+    "name": "Bahria Civic Center",
+    "address": "Civic center Flat A-1, Al-Bahrain Complex, Block A, Civic Center Bahria Town, Civic Center Bahria Town, Civic, Islamabad, Punjab 46220, Pakistan"
+  },
+  {
+    "id":3,
+     "imgUrl":"/footer logo.png",
+    "name": "Allama Iqbal Town",
+    "address": "6-D main boulevard allama iqbal town, huma block allama iqbal town lahore, punjab 54000, Pakistan"
+  },
+  {
+    "id":4,
+     "imgUrl":"/footer logo.png",
+    "name": "Fl0 Islamabad ",
+    "address": "Plot no 2-D sector F10 islamabad"
+  },
+  {
+    "id":5,
+    "name": "F7 New",
+     "imgUrl":"/footer logo.png",
+    "address": "13K Bhittai Road"
+  },
+  {
+    "id":6,
+     "imgUrl":"/footer logo.png",
+    "name": "E11/2",
+    "address": "E11/2 islamabad, islamabad capital territory, Pakistan"
+  },
+  {
+    "id":7,
+     "imgUrl":"/footer logo.png",
+    "name": "Wah Rawalpindi",
+    "address": "Main grand trunk Rd, near saddar pso pump, wah cantt, rawalpindi, punjab, Pakistan"
+  },
+  {
+    "id":8,
+     "imgUrl":"/footer logo.png",
+    "name": " Gulshan E Ravi lahore",
+    "address": "416 Main Blvd Gulshan-e-Ravi, C Block Block C Gulshan-e-Ravi, Lahore, Punjab 54500, Pakistan"
+  },
+   {
+    "id":9,
+     "imgUrl":"/footer logo.png",
+    "name": " Okara",
+    "address": "TEHSIL ROAD OPPOSITE SARAA PETROL PUMP OKARA"
+
+
+  }
+]

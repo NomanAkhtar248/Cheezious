@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "menuimg/Turn up the heat.jpg",
+    "title": "Peri Peri Pizza",
+    "subtext": "A bold, tangy, and spicy delight infused with our special Cheezious sauce",
+    "price": "1600",
+    "category": "Turn up the heat"
+  },
+  {
+    "id": 2,
+    "imgUrl": "menuimg/Starters1.jpg",
+    "title": "Cheezy Sticks",
+    "subtext": "Freshly baked bread filled with the yummiest Cheese blend to satisfy your cravin.",
+    "price": "630",
+    "category": "Starters"
+  },
+  {
+    "id": 3,
+    "imgUrl": "menuimg/Starters.jpg",
+    "title": "Arabic Rolls",
+    "subtext": "4 pcs Arabic Rolls stuffed with the yummiest mix served with sauce.",
+    "price": "690",
+    "category": "Starters"
+  },
+  {
+    "id": 4,
+    "imgUrl": "menuimg/Starters2.jpg",
+    "title": "Behari Rolls",
+    "subtext": "4 pcs Behari Rolls stuffed with the yummiest mix served with sauce.",
+    "price": "690",
+    "category": "Starters"
+  },
+  {
+    "id": 5,
+    "imgUrl": "menuimg/Starters3.jpg",
+    "title": "Oven Baked Wings",
+    "subtext": "Fresh Oven baked wings served with Dip Sauce.",
+    "price": "600",
+    "category": "Starters"
+  },
+  {
+    "id": 6,
+    "imgUrl": "menuimg/Starters4.jpg",
+    "title": "Flaming Wings",
+    "subtext": "Fresh oven baked wings tossed in hot Peri Peri Sauce and served with Dip Sauce",
+    "price": "650",
+    "category": "Starters"
+  },
+  {
+    "id": 7,
+    "imgUrl": "menuimg/Starters5.jpg",
+    "title": "Calzone Chunks",
+    "subtext": "4 pcs Stuffed Calzone Chunks served with Sauce & Fries",
+    "price": "1150",
+    "category": "Starters"
+  },
+  {
+    "id": 8,
+    "imgUrl": "menuimg/Somewhat1.jpg",
+    "title": "Chicken Tikka",
+    "subtext": "Tender chunks of Marinated Grilled Chicken with Savory Onion.",
+    "price": "690",
+    "category": "Somewhat Local"
+  },
+  {
+    "id": 9,
+    "imgUrl": "menuimg/Somewhat2.jpg",
+    "title": "Chicken Fajita",
+    "subtext": "An authentic taste of fajita marinated Chicken, Onion and Bell Pepper",
+    "price": "690",
+    "category": "Somewhat Local"
+  },
+  {
+    "id": 10,
+    "imgUrl": "menuimg/Somewhat3.jpg",
+    "title": "Chicken Lover",
+    "subtext": "Extreme quantity of Chicken and Onion with rich Mozzarella Cheese.",
+    "price": "690",
+    "category": "Somewhat Local"
+  },
+  {
+    "id": 11,
+    "imgUrl": "menuimg/Somewhat 4.jpg",
+    "title": "Chicken Tandoori",
+    "subtext": "Our traditionally developed Tandoori Chicken with Onion, Olives, Jalapeno",
+    "price": "690",
+    "category": "Somewhat Local"
+  },
+  {
+    "id": 12,
+    "imgUrl": "menuimg/Somewhat5.jpg",
+    "title": "Hot n Spicy",
+    "subtext": "Hot and Spicy Chicken Onion with Jalapeno",
+    "price": "690",
+    "category": "Somewhat Local"
+  },
+  {
+    "id": 13,
+    "imgUrl": "menuimg/Somewhat6.jpg",
+    "title": "Vegetable Pizza",
+    "subtext": "Vegetables with Pizza Sauce and Cheese.",
+    "price": "690",
+    "category": "Somewhat Local"
+  },
+  {
+    "id": 14,
+    "imgUrl": "menuimg/Sooper1.jpg",
+    "title": "Euro",
+    "subtext": "A delightful combination of specially Marinated Smoked Chicken with Bell Peppe",
+    "price": "690",
+    "category": "Somewhat Sooper"
+  },
+  {
+    "id": 15,
+    "imgUrl": "menuimg/Sooper2.jpg",
+    "title": "Chicken Supreme",
+    "subtext": "A combination of 3 Flavors of Chicken, Black Olives, Mushrooms, Bell Pepper",
+    "price": "690",
+    "category": "Somewhat Sooper"
+  },
+  {
+    "id": 16,
+    "imgUrl": "menuimg/Sooper3.jpg",
+    "title": "Black Pepper Tikka",
+    "subtext": "A Blend of Marinated Black Pepper Chicken, Onion and Bell Pepper",
+    "price": "690",
+    "category": "Somewhat Sooper"
+  },
+  {
+    "id": 17,
+    "imgUrl": "menuimg/Sooper7.jpg",
+    "title": "Sausage Pizza",
+    "subtext": "Chicken Sausages, Pizza Sauce, and Cheese",
+    "price": "690",
+    "category": "Somewhat Sooper"
+  },
+  {
+    "id": 18,
+    "imgUrl": "menuimg/Sooper5.jpg",
+    "title": "Cheese Lover Pizza",
+    "subtext": "Yummiest Blend of Cheese and Pizza Sauce",
+    "price": "690",
+    "category": "Somewhat Sooper"
+  },
+  {
+    "id": 19,
+    "imgUrl": "menuimg/Sooper6.jpg",
+    "title": "Chicken Pepperoni...",
+    "subtext": "Chicken Pepperoni, Pizza Sauce and Cheese",
+    "price": "690",
+    "category": "Somewhat Sooper"
+  },
+  {
+    "id": 20,
+    "imgUrl": "menuimg/Somewhat1.jpg",
+    "title": "Chicken Mushroom",
+    "subtext": "Tender Chunks of Marinated Grilled Chicken Tikka, Lots of Mushrooms, Onion and Tikka",
+    "price": "690",
+    "category": "Somewhat Sooper"
+  },
+  {
+    "id": 21,
+    "imgUrl": "menuimg/Treats3.jpg",
+    "title": "Cheezious Special...",
+    "subtext": "Delicious Special Chicken with Black Olives, Sausages and Bell Pepper.",
+    "price": "1550",
+    "category": "Cheezy Treats"
+  },
+  {
+    "id": 22,
+    "imgUrl": "menuimg/Treats1.jpg",
+    "title": "Behari Kebab",
+    "subtext": "Enjoy Special Chicken Behari Kabab, Grilled Chicken with Onion Jalapenos and Gin",
+    "price": "1550",
+    "category": "Cheezy Treats"
+  },
+  {
+    "id": 23,
+    "imgUrl": "menuimg/Treats2.jpg",
+    "title": "Chicken Extreme",
+    "subtext": "Combination of 3 Flavors of Chicken with Onion Bell Pepper, Green Olives, Mushro...",
+    "price": "1550",
+    "category": "Cheezy Treats"
+  },
+  {
+    "id": 24,
+    "imgUrl": "menuimg/Deals1.jpg",
+    "title": "Small Pizza Deal",
+    "subtext": "Any Flavor from Local Love Or Over the Sea Flavor Category & 1 Soft Drink.",
+    "price": "750",
+    "category": "Pizza Deals"
+  },
+  {
+    "id": 25,
+    "imgUrl": "menuimg/Deals2.jpg",
+    "title": "Regular Pizza Dea..",
+    "subtext": "1 Regular Pizza and 2 Regular Drinks",
+    "price": "1450",
+    "category": "Pizza Deals"
+  },
+  {
+    "id": 26,
+    "imgUrl": "menuimg/Deals3.jpg",
+    "title": "Large Pizza Deal",
+    "subtext": "Any Flavor from Local Love or Over the Sea Flavor Category & 1 Liter Drink",
+    "price": "1990",
+    "category": "Pizza Deals"
+  },
+  {
+    "id": 27,
+    "imgUrl": "menuimg/Platters1.jpg",
+    "title": "Special Roasted ...",
+    "subtext": "4 pcs Behari Rolls, 6 pcs Wings Served with Fries & Sauce",
+    "price": "1200",
+    "category": "Sandwiches & Platters"
+  },
+  {
+    "id": 28,
+    "imgUrl": "menuimg/Platters2.jpg",
+    "title": "Mexican Sandwich",
+    "subtext": "Mozzarella Dipped Chicken Topped with Garlic Sauce and Tomatoes Served in Baked",
+    "price": "920",
+    "category": "Sandwiches & Platters"
+  },
+  {
+    "id":29,
+    "imgUrl": "menuimg/Platters3.jpg",
+    "title": "Pizza Stacker",
+    "subtext": "A unique blend of Delicious Sauce, Crispy Chicken and Pizza Crust",
+    "price": "1200",
+    "category": "Sandwiches & Platters"
+  },
+  {
+    "id": 30,
+    "imgUrl": "menuimg/Platters4.jpg",
+    "title": "Euro Sandwich",
+    "subtext": "Mozzarella Dipped Black Pepper Chicken topped with Garlic Sauce, Pineapples and ...",
+    "price": "920",
+    "category": "Sandwiches & Platters"
+  },
+  {
+    "id": 31,
+    "imgUrl": "menuimg/Platters5.jpg",
+    "title": "Classic Roll Plat...",
+    "subtext": "4 pcs Behari Rolls, 4 pcs Arabic Rolls served with Fries & Sauce.",
+    "price": "1200",
+    "category": "Sandwiches & Platters"
+  },
+  {
+    "id": 32,
+    "imgUrl": "menuimg/Special1.jpg",
+    "title": "Crown Crust",
+    "subtext": "Scrumptious Pizza with a yummy blend of Grilled Chicken, Olives, Onion, Capsicum...",
+    "price": "1550",
+    "category": "Special Pizza"
+  },
+  {
+    "id": 33,
+    "imgUrl": "menuimg/Special2.jpg",
+    "title": "Stuff Crust Pizza..",
+    "subtext": "Special Chicken, Green Olives, Mushrooms, with the Crust filled with Cheese",
+    "price": "1600",
+    "category": "Special Pizza"
+  },
+  {
+    "id": 34,
+    "imgUrl": "menuimg/Turn up the heat.jpg",
+    "title": "Peri Peri Pizza",
+    "subtext": "A bold, tangy, and spicy delight infused with our special Cheezious sauce",
+    "price": "1600",
+    "category": "Special Pizza"
+  },
+  {
+    "id": 35,
+    "imgUrl": "menuimg/Amazing1.jpg",
+    "title": "Somewhat Amazing ..",
+    "subtext": "2 Bazinga, Regular Fries, 2 Regular Drinks",
+    "price": "1250",
+    "category": "Somewhat Amazing"
+  },
+  {
+    "id": 36,
+    "imgUrl": "menuimg/Amazing2.jpg",
+    "title": "Somewhat Amazing ..",
+    "subtext": "2 Bazinga Burger, 2 pcs Chicken, Large Fries, 2 Regular Drink",
+    "price": "1750",
+    "category": "Somewhat Amazing"
+  },
+  {
+    "id": 37,
+    "imgUrl": "menuimg/Amazing3.jpg",
+    "title": "Somewhat Amazing ..",
+    "subtext": "3 Bazinga Burger, Large Fries, 1 Liter Drink",
+    "price": "1890",
+    "category": "Somewhat Amazing"
+  },
+  {
+    "id":38,
+    "imgUrl": "menuimg/Amazing4.jpg",
+    "title": "Somewhat Amazing ..",
+    "subtext": "3 Bazinga Burger, 3 pcs Chicken, 1 Liter Drink",
+    "price": "2150",
+    "category": "Somewhat Amazing"
+  },
+  {
+    "id": 39,
+    "imgUrl": "menuimg/Pastas1.jpg",
+    "title": "Fettuccine Alfred...",
+    "subtext": "Pasta made in the yummiest White Sauce With Chicken Chunks Topped with Cheese",
+    "price": "1050",
+    "category": "Pastas"
+  },
+  {
+    "id": 40,
+    "imgUrl": "menuimg/Pastas2.jpg",
+    "title": "Crunchy Chicken...",
+    "subtext": "Yummiest Macaroni Pasta in White Sauce topped with Crispy Chicken and Cheese.",
+    "price": "950",
+    "category": "Pastas"
+  },
+  {
+    "id": 41,
+    "imgUrl": "menuimg/Burgerz1.jpg",
+    "title": "Reggy Burger",
+    "subtext": "Perfectly Fried Chicken Patty with Fresh Lettuce and Sauce in a Sesame Seed Bun....",
+    "price": "390",
+    "category": "Burgerz"
+  },
+  {
+    "id": 42,
+    "imgUrl": "menuimg/Burgerz2.jpg",
+    "title": "Bazinga Burger",
+    "subtext": "Crispy fried to perfection boneless thigh with signature sauce and lettuce held ...",
+    "price": "560",
+    "category": "Burgerz"
+  },
+  {
+    "id": 43,
+    "imgUrl": "menuimg/Burgerz3.jpg",
+    "title": "Bazooka",
+    "subtext": "Tender, spicy chicken strips paired with mayo, pickles, jalapeños, and signature...",
+    "price": "630",
+    "category": "Burgerz"
+  },
+  {
+    "id": 44,
+    "imgUrl": "menuimg/Orders1.jpg",
+    "title": "Fries",
+    "subtext": ".",
+    "price": "220",
+    "category": "Side Orders"
+  },
+  {
+    "id": 45,
+    "imgUrl": "menuimg/Orders2.jpg",
+    "title": "Nuggets",
+    "subtext": "5 pcs",
+    "price": "450",
+    "category": "Side Orders"
+  },
+  {
+    "id": 46,
+    "imgUrl": "menuimg/Orders3.jpg",
+    "title": "Chicken Piece",
+    "subtext": "Crispy Chicken",
+    "price": "300",
+    "category": "Side Orders"
+  },
+  {
+    "id": 47,
+    "imgUrl": "menuimg/Addons1.jpg",
+    "title": "Juice",
+    "subtext": ".",
+    "price": "60",
+    "category": "Addons"
+  },
+  {
+    "id": 48,
+    "imgUrl": "menuimg/Addons3.jpeg",
+    "title": "Mayo Dip",
+    "subtext": ".",
+    "price": "80",
+    "category": "Addons"
+  },
+  {
+    "id": 49,
+    "imgUrl": "menuimg/Addons2.jpg",
+    "title": "Water Small",
+    "subtext": ".",
+    "price": "60",
+    "category": "Addons"
+  },
+  {
+    "id": 50,
+    "imgUrl": "menuimg/Drink.jpg",
+    "title": "Soft Drink",
+    "subtext": ".",
+    "price": "160",
+    "category": "Soft Drinks"
+  }
+]
